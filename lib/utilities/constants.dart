@@ -18,7 +18,14 @@ const kButtonTextStyle = TextStyle(
 const kConditionTextStyle = TextStyle(
   fontSize: 100.0,
 );
+const kButtonTextStyle2 = TextStyle(
+  fontSize: 30.0,
+  fontFamily: 'Spartan MB',
+);
 
+const kConditionTextStyle2 = TextStyle(
+  fontSize: 100.0,
+);
 const kTextFieldInputDecoration=InputDecoration(
   fillColor: Colors.white,
   filled: true,
